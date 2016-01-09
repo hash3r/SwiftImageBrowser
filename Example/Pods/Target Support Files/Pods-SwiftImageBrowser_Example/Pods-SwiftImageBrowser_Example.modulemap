@@ -1,0 +1,6 @@
+framework module Pods_SwiftImageBrowser_Example {
+  umbrella header "Pods-SwiftImageBrowser_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

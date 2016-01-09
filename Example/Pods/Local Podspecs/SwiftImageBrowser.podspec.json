@@ -1,0 +1,25 @@
+{
+  "name": "SwiftImageBrowser",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftImageBrowser.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SwiftImageBrowser",
+  "license": "MIT",
+  "authors": {
+    "Vladimir Gnatiuk": "hash33r@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SwiftImageBrowser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SwiftImageBrowser": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
